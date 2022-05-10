@@ -12,4 +12,4 @@
 3. npm run serve
 
 Si erreur UnhandledPromiseRejectionWarning : 
-cmd terminal : npm run start --unhandled-rejections=strict ou/et npm run serve --unhandled-rejections=strict
+npm run start --unhandled-rejections=strict ou/et npm run serve --unhandled-rejections=strict
