@@ -1,9 +1,11 @@
 # vuesjs-project-dfsr
 
-Front : Vue.js v.2
-Style : Tailwind v.3
-Back : Node.js & Express.js
-BDD : MongoDB & Mongoose
+1. Front : Vue.js v.2
+2. Style : Tailwind v.3
+3. Back : Node.js & Express.js
+4. BDD : MongoDB & Mongoose
+
+**********************************
 
 1. npm install
 2. npm start
