@@ -13,3 +13,7 @@
 
 Si erreur UnhandledPromiseRejectionWarning : 
 npm run start --unhandled-rejections=strict ou/et npm run serve --unhandled-rejections=strict
+
+
+POUR LES FAILLES XSS SE REFERER A CETTE VIDEO :
+https://www.youtube.com/watch?v=PzRQhpbYbeg
